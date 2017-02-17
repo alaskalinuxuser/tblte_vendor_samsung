@@ -1,0 +1,12 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SW-Configuration>
+	<MobileData>
+	<PublicName>SM-N915T</PublicName>
+	</MobileData>
+	<CustomerDataSet>
+	<CSCName>N915TTMB</CSCName>
+	<CSCVersion>2DPG2</CSCVersion>
+	<NbCustomer>1</NbCustomer>
+	<CustomerData src="/Customer/TMB/customer.xml" />
+	</CustomerDataSet>
+</SW-Configuration>
