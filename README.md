@@ -1,9 +1,6 @@
 # tblte_vendor_samsung
 Vendor blobs for Samsung Galaxy Note Edge. https://thealaskalinuxuser.wordpress.com
 
-With working radio/cellular, thanks completely to xNNism!
-
-added this line to vendor/samsung/tblte-common/tblte-common-vendor-blobs.mk:
-    vendor/samsung/tblte-common/proprietary/lib/libstlport.so:system/lib/libstlport.so \
+Two branches, the Nougat branch uses the 6.0.1 modem and bootloader, while the old branch uses the 5.1.1 modem and bootloader.
 
 
